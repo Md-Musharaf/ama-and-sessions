@@ -1,4 +1,4 @@
-# AMA Questions and Answers
+# AMA Questions & Answers
 
 ## Adhikya Edammala: What is `id()` function in Python?
 
