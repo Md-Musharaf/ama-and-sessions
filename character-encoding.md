@@ -1,5 +1,5 @@
 
-# Character Encoding: A Deep Explanation
+# Character Encoding
 
 ## What is Character Encoding?
 
