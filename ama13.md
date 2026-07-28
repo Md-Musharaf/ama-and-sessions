@@ -1,4 +1,4 @@
-# AI Q&A
+# CLAUDE AMA
 
 ## Adhikya Edammala
 
